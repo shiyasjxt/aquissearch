@@ -1,4 +1,4 @@
-<meta charset="UTF-8" />
+{/* <meta charset="UTF-8" /> */}
 <meta name="msvalidate.01" content="BACBF8B54575E49109D3B04FFF407750" />
 <meta name="google-site-verification" content="k7Dq1Hxs_7Js-wRw9A8jkg6yluB3KtK8BSrt34VZBys" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
